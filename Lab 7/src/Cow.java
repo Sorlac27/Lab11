@@ -18,3 +18,5 @@ public class Cow {
         image = _image;
     }
 }
+
+//EDITED!!!!!!!!!
